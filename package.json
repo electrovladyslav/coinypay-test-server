@@ -1,0 +1,15 @@
+{
+  "name": "coinypay-test-server",
+  "version": "1.0.0",
+  "description": "Server side program for test task from coinypay",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yermolin Vladyslav",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.1"
+  }
+}
